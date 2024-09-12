@@ -1,1 +1,2 @@
-Refer Azure Scheduledactions Integration Guide 3 (pdf)
+ReferAzureScheduledactionsIntegrationGuide3.pdf
+
